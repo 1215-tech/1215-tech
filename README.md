@@ -6,4 +6,7 @@
 <p align="left" >
 <a href="https://www.youtube.com/channel/UCG5tSM_o56b2CYDUHGGqhIQ" target="blank">
 <img align="center" src="https://i.imgur.com/fZ8PjgH.png" alt="" width="50" /></a>
+|
+<a href="https://vk.com/gan1a" targe="blank">
+<img align="center" src="https://i.imgur.com/ZT3MkZw.png" alt="" width="50" /></a>
 </p>
