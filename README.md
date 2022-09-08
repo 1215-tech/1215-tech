@@ -1,2 +1,3 @@
-### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/A1CVDfa.gif">
+<p align="center" >
+  <img width="1000" src="https://i.imgur.com/Gbig5pG.gif" />
+</p>
