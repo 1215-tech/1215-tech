@@ -3,7 +3,7 @@
   <img width="400" src="https://i.imgur.com/navfnIg.png">
   <img width="380" src="https://i.imgur.com/HDrcZVo.png">
 </p>
-<p align="center" >
+<p align="left" >
 <a href="https://www.youtube.com/channel/UCG5tSM_o56b2CYDUHGGqhIQ" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<img align="center" src="https://i.imgur.com/fZ8PjgH.png" alt="" width="50" /></a>
 </p>
