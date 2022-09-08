@@ -15,3 +15,6 @@
 <img align="center" src="https://i.imgur.com/LLK7Xpp.png" width="50" /><a>
 |
 </p>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=onedark" alt="Jokes Card" />
+</p>
