@@ -1,10 +1,19 @@
-<p align="center">
-  <img width="1000" src="https://i.imgur.com/Gbig5pG.gif">
-</p>
-<p align="center">
-  <img width="400" src="https://i.imgur.com/DHjt9dO.png">
-  <img width="380" src="https://i.imgur.com/HDrcZVo.png">
-</p>
+```
+         _       _    _            _             _             _       
+        / /\    / /\ /\ \         _\ \          _\ \          /\ \     
+       / / /   / / //  \ \       /\__ \        /\__ \        /  \ \    
+      / /_/   / / // /\ \ \     / /_ \_\      / /_ \_\      / /\ \ \   
+     / /\ \__/ / // / /\ \_\   / / /\/_/     / / /\/_/     / / /\ \ \  
+    / /\ \___\/ // /_/_ \/_/  / / /         / / /         / / /  \ \_\ 
+   / / /\/___/ // /____/\    / / /         / / /         / / /   / / / 
+  / / /   / / // /\____\/   / / / ____    / / / ____    / / /   / / /  
+ / / /   / / // / /______  / /_/_/ ___/\ / /_/_/ ___/\ / / /___/ / /   
+/ / /   / / // / /_______\/_______/\__\//_______/\__\// / /____\/ /    
+\/_/    \/_/ \/__________/\_______\/    \_______\/    \/_________/     
+                                                                       
+```
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gan11a.gan11a&left_color=green&right_color=red)
 
 <p align="left">
 <img src="https://readme-jokes.vercel.app/api?theme=onedark" alt="Jokes Card">
