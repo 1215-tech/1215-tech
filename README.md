@@ -15,13 +15,13 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=gan11a.gan11a&color=00cf00)
 ## 👋 About Me
-- 🖥 QA engineer
+- 🖥 Network engineer
 - 🔮 Lead product engineer at [11Customs](https://github.com/11Customs)
 - 🔓 Open source enthusiast 
 - 🌐 You can check out all of my projects here
 
 
-## 	💻 Current QA stack
+## 	💻 Current stack:
 WIP
 <!--
 - playwright (typescript) for e2e testing
