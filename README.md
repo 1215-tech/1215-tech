@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 - 69x engineer
-- Senior Vibe Code with 2 minutes of industry experience
+- Senior vibe coder with 2 minutes of industry experience
 - 🔮 Lead product engineer at [11Customs](https://github.com/11Customs)
 - 🔓 Open source enthusiast 
 - 🌐 You can check out all of my projects here
