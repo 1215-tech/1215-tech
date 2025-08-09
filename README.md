@@ -13,26 +13,19 @@
                                                                        
 ```
 
-## 👋 About Me
-- 69x engineer
-- Senior vibe coder with 2 minutes of industry experience
-- 🔮 Lead product engineer at [11Customs](https://github.com/11Customs)
-- 🔓 Open source enthusiast 
-- 🌐 You can check out all of my projects here
+## 👋 Welcome! This repository is a living document of my hands-on experience in network engineering and administration. It showcases various labs and projects, from physical installation to logical configuration and troubleshooting.
 
-
-## 	💻 Current stack:
-WIP
+## 💻 Current stack:
+## WIP
 <!--
-- playwright (typescript) for e2e testing
-- k6 or artillery for load testing
-- pact for contract testing (hard to diy this one without real services but it's good to read up on/understand the concept)
-- vitest (or any other test runner like jest) and supertest for api testing
-- github actions for ci/cd
-- git and source control in general; you need to know how to work with branches, create/merge pull requests, etc.
-- sonarcloud, snyk, veracode, synopsis, etc. for code quality and security scanning
-- postgres sql/sql basics
+* **Routing:** OSPF, EIGRP, BGP, Static Routing
+* **Switching:** VLANs, STP, EtherChannel, Port Security
+* **Hardware:** Cisco ISR/Catalyst, Ubiquiti UniFi, Dell PowerEdge Servers
+* **Physical:** Rack Installation, Structured Cabling (Cat6/Fiber), SFP/SFP+ Transceivers
 -->
+## Projects:
+## Wip 
+
 <p align="left">
 <img src="https://readme-jokes.vercel.app/api?theme=onedark" alt="Jokes Card">
 </p>
