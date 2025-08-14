@@ -34,13 +34,13 @@
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/python/" width="48" height="48" alt="Python" />
+        <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
         <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/bash" width="48" height="48" alt="Bash" />
+        <img src="https://cdn.simpleicons.org/gnubash" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/java" width="48" height="48" alt="Java" />
+        <img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
