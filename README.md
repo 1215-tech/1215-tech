@@ -22,55 +22,55 @@
   <tr>
     <td align="center" width="96">
       <a href="#-systems--cloud">
-        <img src="https://cdn.simpleicons.org/linux/black" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.simpleicons.org/linux" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#-systems--cloud">
-        <img src="https://cdn.simpleicons.org/docker/black" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/python/black" width="48" height="48" alt="Python" />
+        <img src="https://cdn.simpleicons.org/python/" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
         <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://cdn.simpleicons.org/bash" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/git/black" width="48" height="48" alt="Git" />
+        <img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
      <td align="center" width="96">
       <a href="#-networking--services">
-        <img src="https://cdn.simpleicons.org/nginx/black" width="48" height="48" alt="Nginx" />
+        <img src="https://cdn.simpleicons.org/nginx" width="48" height="48" alt="Nginx" />
       </a>
       <br>Nginx
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/jenkins/black" width="48" height="48" alt="Jenkins" />
+        <img src="https://cdn.simpleicons.org/jenkins" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#-automation--devops">
-        <img src="https://cdn.simpleicons.org/java/black" width="48" height="48" alt="Java" />
+        <img src="https://cdn.simpleicons.org/java" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
      <td align="center" width="96">
       <a href="#-hardware--design">
-        <img src="https://cdn.simpleicons.org/kicad/black" width="48" height="48" alt="KiCAD" />
+        <img src="https://cdn.simpleicons.org/kicad" width="48" height="48" alt="KiCAD" />
       </a>
       <br>KiCAD
     </td>
@@ -84,6 +84,5 @@
 - **Networking & Services:** Nginx, DNS Management, SSL/TLS, SOHO Networking
 - **Automation & DevOps:** Python, Bash Scripting, Git, CI/CD (Jenkins), QA Automation (Java/JUnit)
 - **Hardware & Design:** Custom PC/Server Architecture, PCB Design (KiCAD), Hobbyist Electronics & Soldering
--->
 ## Projects:
 ## Wip 
