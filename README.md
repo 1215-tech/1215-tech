@@ -14,7 +14,6 @@
 ```
 
 ## 👋 Welcome! This repository is a living document of my hands-on experience in network engineering and administration. It showcases various labs and projects, from physical installation to logical configuration and troubleshooting.
-## 🔨 Current hardware stack:
 ## 💻 Current software stack:
 <table>
   <tr>
@@ -82,5 +81,27 @@
 - **Networking & Services:** Nginx, DNS Management, SSL/TLS, SOHO Networking
 - **Automation & DevOps:** Python, Bash Scripting, Git, CI/CD (Jenkins), QA Automation (Java/JUnit)
 - **Hardware & Design:** Custom PC/Server Architecture, PCB Design (KiCAD), Hobbyist Electronics & Soldering
+## 🔨 Current hardware stack:
+
+### 🖥️ Core Infrastructure: Home Lab Server
+
+- Chassis: `Fractal Design Terra`
+- CPU: `1x R7 2700`
+- RAM: `64GB DDR4`
+- Storage: `2x 1TB SSDs for general storage and containers + 1x 128GB M.2 SSD for cashing`
+- OS `UNRAID`
+- Primary Services; `Docker Host, Plex`
+
+### 🌐 Networking Stack
+- Router: `GLinet AX3000`
+- Unmanaged switch: `mercusys ms108g`
+- Configuration: `OpenWRT; segmented into multiple VLANs`
+
+### 🖥️ PC Daily Driver
+- CPU: `R9 7900`
+- GPU: `7900XTX`
+- RAM: `32GB DDR5 5600 CL30`
+- Storage: `1x 250GB M.2 SSD for the system + 1x 2TB M.2 SSD for everything else`
+- OS: `Windows 11 LTSC`
 ## Projects:
 ## Wip 
