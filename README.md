@@ -16,8 +16,6 @@
 ## 👋 Welcome! This repository is a living document of my hands-on experience in network engineering and administration. It showcases various labs and projects, from physical installation to logical configuration and troubleshooting.
 
 ## 💻 Current stack:
-### 🚀 My Technical Stack
-
 <table>
   <tr>
     <td align="center" width="96">
