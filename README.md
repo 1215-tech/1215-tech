@@ -103,5 +103,11 @@
 - RAM: `32GB DDR5 5600 CL30`
 - Storage: `1x 250GB M.2 SSD for the system + 1x 2TB M.2 SSD for everything else`
 - OS: `Windows 11 LTSC`
+
+### 💻 Laptop Daily Driver
+- Model: `2021 MacBook Pro M1`
+- RAM: `16GB`
+- Storage: `512GB`
+- OS: `MacOS 15.6 / Asahi Linux Dualboot`
 ## Projects:
 ## Wip 
