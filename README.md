@@ -111,4 +111,4 @@
 - OS: `MacOS 15.6 / Asahi Linux Dualboot`
 ## Projects:
 ### Software:
-- (Kube-Mini-Cloud Project)[https://github.com/1215-tech/kube-mini-cloud]
+- [Kube-Mini-Cloud Project](https://github.com/1215-tech/kube-mini-cloud)
