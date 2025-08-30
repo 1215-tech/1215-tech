@@ -110,4 +110,5 @@
 - Storage: `512GB`
 - OS: `MacOS 15.6 / Asahi Linux Dualboot`
 ## Projects:
-## Wip 
+### Software:
+- (Kube-Mini-Cloud Project)[https://github.com/1215-tech/kube-mini-cloud]
