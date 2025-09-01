@@ -112,3 +112,6 @@
 ## Projects:
 ### Software:
 - [Kube-Mini-Cloud Project](https://github.com/1215-tech/kube-mini-cloud)
+### Hardware:
+- [WD66](https://github.com/1215-tech/WD66)
+- [Homelab rev1.7](https://github.com/1215-tech/HomeLAB-Rev-1.7)
